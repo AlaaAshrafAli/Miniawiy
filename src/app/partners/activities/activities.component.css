@@ -1,0 +1,40 @@
+
+.menu-list-row .blog-box {
+  max-width: 400px; 
+  margin: 0 auto; 
+}
+
+.menu-list-row .blog-box .blog-img {
+  height: 150px; 
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 10px; 
+}
+
+.menu-list-row .blog-box .card-body {
+  padding: 10px;
+}
+
+.menu-list-row .dish-rating {
+  color: #FFD700; 
+}
+
+.menu-list-row .dish-title h3 {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.menu-list-row .dish-title p {
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.menu-list-row .btn-orange {
+  background-color: #FFA500; 
+  color: #fff; 
+  border: none;
+}
+
+.menu-list-row .btn-orange:hover {
+  background-color: #FF8C00; 
+}
